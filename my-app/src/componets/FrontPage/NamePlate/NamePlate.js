@@ -15,5 +15,5 @@ const NamePlate = () => {
   };
   
   export default NamePlate;
-  /*<a href="https://your-link-here.com" className="title">Kevin Kohutek</a> */
+  /*<a href="https://your-link-here.com" className="title">Henry James</a> */
   /*title  subtitle  description*/

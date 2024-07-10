@@ -11,12 +11,13 @@ const ProjectBourd = () => {
             topic='SpringBoot JWT Java' 
             link='https://github.com/KevinKohutek04/JWT_STARTER/blob/main/README.md'/>
 
-            <Project image='PAPERTRADERS' title='Paper Traders' 
-            subtext="A live project (not any more) that pulls current crypto currency data and makes a fully functioning exchange that you can access. I ran the website locally
-                on an old business computer so I could learn how to set up networks. I have my own space where I can post projects without greedy hosting services taking my money.
-                This project took some time and sweat to complete, but I'm proud of how it turned out." 
-            topic='JavaScript HTML CSS node.Js JAVA SpringBoot JWT MySql' 
-            link='https://github.com/KevinKohutek04/PaperTrades'/>
+            <Project image='PAPERTRADERS' title='Homes on Angular' 
+            subtext="A straightforward Angular project listing home data and filtering by categories. This project highlights Angular's suitability 
+            for single-page web apps. Its responsive two-way data binding ensures immediate UI updates from changes in the data model. 
+            Angular's modular architecture supports scalability 
+            through reusable components, and its efficient routing enhances performance by enabling seamless view navigation." 
+            topic='JavaScript HTML CSS node.Js Angular AWS' 
+            link='https://github.com/henryj23/homes-app'/>
             
             <Project image='KevinKohutek' title='React Portfolio' 
             subtext='My source code for this project is public, so anyone can see how these components were built. Check it out here.' 

@@ -15,12 +15,9 @@ const StoryBourd = () => {
       <div className='StoryBourd' id="about">
         <Spacer amount={1.4}/>
         <p className="descriptionp">
-        &nbsp; In 2019, I began by making small Java applications in IntelliJ. Then, I took my first structured course at <a href="https://techfios.com/" target="_blank" rel="noopener noreferrer" className="no-style-link">Tech Fios,</a>
-            where I learned the necessary skills for backend development. After completing the course, I applied for an internship program
-            at <a href="https://www.homedepot.com" target="_blank" rel="noopener noreferrer" className="no-style-link">Home Depot,</a> where I had previously worked in the lumber department. The internship provided valuable insights into the inner 
-            workings of a large-scale software. Following this experience, I joined the team as an entry-level software engineer.
+        &nbsp; Software Developing has been a part of my life for as long as I can remember. My first memories of coding go back to 2018 when I was writing simple gaming scripts. Over the next couple of years I would learn to love coding even more and go on to learn more advnaced languages and frameworks. In the last couple years, I made the decision to go even further with coding, enrolling in my first technical bootcamp at TechFios.
             <br/><br/>
-            &nbsp;In my free time, I love to lift heavy weights, play video games, and spend time with my beagle, <span className="TrooperPooper" style={customCursorStyle}>Trooper.</span> Balancing my professional life and personal life keeps me happy and ready to tackle anything.
+            &nbsp;In my personal time I love working on personal projects and gaming. I also love working on cars, motorcycles, and just about anything that moves.
             <br/><br/>
             </p>
       </div>

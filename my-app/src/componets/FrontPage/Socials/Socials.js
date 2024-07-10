@@ -10,7 +10,7 @@ const Socials = () => {
     const [notification, setNotification] = useState('');
 
     const handleEmailClick = () => {
-        navigator.clipboard.writeText('kohutekkevin7@gmail.com').then(() => {
+        navigator.clipboard.writeText('henryajames23@gmail.com').then(() => {
             setNotification('Email address copied to clipboard');
         }, () => {
             setNotification('Failed to copy email address');
@@ -20,10 +20,10 @@ const Socials = () => {
     return (
         <div className="Social-box">
             {notification && <Notification message={notification} onClose={() => setNotification('')} />}
-            <a href="https://github.com/KevinKohutek04/ReactPortfolio/tree/main/my-app" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/henryj23/React-Portfolio.git" target="_blank" rel="noopener noreferrer">
                 <img src={code} alt="Code" className="social-icon" />
             </a>
-            <a href="https://github.com/KevinKohutek04" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/henryj23" target="_blank" rel="noopener noreferrer">
                 <img src={github} alt="GitHub" className="social-icon" />
             </a>
             <button
@@ -32,7 +32,7 @@ const Socials = () => {
             >
                 <img src={gmail} alt="Gmail" className="social-icon" />
             </button>
-            <a href="https://www.linkedin.com/in/kevin-kohutek-7306a4293/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/henry-james-9355742b8/" target="_blank" rel="noopener noreferrer">
                 <img src={link} alt="LinkedIn" className="social-icon" />
             </a>
         </div>
